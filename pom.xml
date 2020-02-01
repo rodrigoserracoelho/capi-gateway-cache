@@ -33,6 +33,11 @@
       <artifactId>slf4j-api</artifactId>
       <version>1.8.0-beta4</version>
     </dependency>
+    <dependency>
+      <groupId>at.rodrigo.api.gateway</groupId>
+      <artifactId>api-gateway-entity</artifactId>
+      <version>1.0</version>
+    </dependency>
   </dependencies>
 
 </project>
